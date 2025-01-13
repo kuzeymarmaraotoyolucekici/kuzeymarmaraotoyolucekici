@@ -1,4 +1,4 @@
-## kuzey marmara otoyolu çekici 👋
+## kuzey marmara otoyolu çekici 
 
 <!--
 **kuzeymarmaraotoyolucekici/kuzeymarmaraotoyolucekici** 
